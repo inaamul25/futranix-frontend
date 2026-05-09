@@ -1,0 +1,17 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="futranixBlue" x1="25" y1="20" x2="104" y2="108" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#04163F"/>
+      <stop offset="1" stop-color="#1D7BFF"/>
+    </linearGradient>
+    <linearGradient id="futranixDark" x1="18" y1="16" x2="83" y2="102" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#04163F"/>
+      <stop offset="1" stop-color="#0A2C72"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="white"/>
+  <path d="M27 93L47 38C51.6 25.5 58 20 69.4 20H102L94.4 33.5H70.8C64.4 33.5 60.9 35.9 58.4 42.4L54.7 52.1H91.6L84.5 65.2H49.9L39.8 93H27Z" fill="url(#futranixDark)"/>
+  <path d="M71.5 49L104.4 70.8C110.6 74.9 111.1 82.1 105.4 85.9L70.4 109L77.8 86.7L91.1 78.3L69.1 64L71.5 49Z" fill="url(#futranixBlue)"/>
+  <path d="M37 98.8C45.4 96.7 55.9 97 65.8 100.3C72.2 102.5 78.1 105.9 83 110.2C76 106.4 68.7 104.4 61.4 103.6C53 102.7 44.7 103.4 37 105.8V98.8Z" fill="#04163F"/>
+  <path d="M65.3 93.7L69.2 102L78.1 103.1L71.3 108.8L73.1 117L65.3 112.7L57.5 117L59.3 108.8L52.5 103.1L61.4 102L65.3 93.7Z" fill="#E8AE12"/>
+</svg>
